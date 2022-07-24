@@ -1,2 +1,0 @@
-This file will be staged and then renamed
-Then test for commit
